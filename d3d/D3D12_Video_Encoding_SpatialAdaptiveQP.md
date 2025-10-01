@@ -1,3 +1,4 @@
+![Screenshot_2025-10-01-11-54-09-48_74158c69f0af68fbf38b28b8774cd491](https://github.com/user-attachments/assets/5714a0e7-104b-4213-85c2-b193406b5c27)
 # D3D12 Video Encoding Spatial Adaptive QP
 
 **Overview**
@@ -40,3 +41,4 @@ typedef enum D3D12_VIDEO_ENCODER_RATE_CONTROL_FLAGS
 *D3D12_VIDEO_ENCODER_RATE_CONTROL_FLAG_ENABLE_SPATIAL_ADAPTIVE_QP*
 
 This flag can be enabled when `D3D12_VIDEO_ENCODER_SUPPORT_FLAG_RATE_CONTROL_SPATIAL_ADAPTIVE_QP_AVAILABLE` is reported by the driver, to enable spatial adaptive QP on this frame.
+
